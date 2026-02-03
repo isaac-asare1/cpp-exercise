@@ -12,7 +12,7 @@ using namespace std;
 // Write a C++ program that takes in two integer values from the user and calculates
 // the sum, difference, product, and quotient using the appropriate operators.
 // ===============================================================
-/* int main() {
+int main() {
     int a, b;
 
     cout << "Enter first integer: ";
@@ -31,7 +31,7 @@ using namespace std;
     }
 
     return 0;
-} */
+}
 
 
 /*
@@ -478,3 +478,4 @@ int main() {
 
 //     return 0;
 // }
+
